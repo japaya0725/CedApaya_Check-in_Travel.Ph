@@ -1,0 +1,27 @@
+h2{
+  color: black;
+  font-size: orem;
+}
+#media .container{
+  line-height: 1.2;
+}
+#where-to-board .where-to-board{
+  background-color: #B9B9B9;
+    background-size: 100% 100%;
+    background-position: center;
+    text-align: center;
+    height: 20vh;
+    font-size:30px;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+#ticket .ticket{
+  background-color: cyan;
+    background-size: 100% 100%;
+    background-position: center;
+    text-align: center;
+    height: 20vh;
+    font-size:30px;
+    padding-top: 30px;
+    padding-left: 50px;
+}
